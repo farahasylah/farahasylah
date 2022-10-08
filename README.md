@@ -13,18 +13,19 @@
 <code>CSS</code>
 <code>SASS</code>
 <code>WordPress</code>
-<code>Vue.js</code>
-<code>Git</code>
 <code>Java</code>
 <code>MySQL</code>
 <code>Bootsrap</code>
 <code>Tailwind CSS</code>
+<code>Vue.js</code>
+<code>Git</code>
 <code>E-commerce</code>
 <code>Front-End Development</code>
 <code>E-commerce</code>
 <code>Responsive Web Design</code>
 <code>Content Management System</code>
 <code>SEO</code>
+<code>NPM</code>
 </div>
 
 
