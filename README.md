@@ -1,4 +1,4 @@
-### Hi, I'm Farah Asylah👋
+### Hello World, I'm Farah Asylah👋
 👩‍💻 Web developer with over 4 years of experience. Motivated problem solver that likes to learn and explore new technologies. Involved in every stage of web development and have delivered impactful websites for various industries.
 
 💼 I am looking for remote opportunities leading towards front end development that allow professional growth.<br>
