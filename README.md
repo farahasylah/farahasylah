@@ -30,7 +30,7 @@
 <p></p>
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=farahasylah&show_icons=true"/></td>
+<!--     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=farahasylah&show_icons=true"/></td> -->
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=farahasylah&layout=compact&langs_count=9"/></td>
   </tr>
 </table>
