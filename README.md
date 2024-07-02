@@ -1,5 +1,5 @@
 ### Hello World, I'm Farah Asylah👋
-👩‍💻 Web developer with over 5 years of experience. Motivated problem solver that likes to learn and explore new technologies. Involved in every stage of web development and have delivered impactful websites for various industries.
+👩‍💻 Web developer with over 5 years of experience. Motivated problem solver who likes to learn and explore new technologies. Involved in every stage of web development and have delivered impactful websites for various industries.
 
 💼 I am looking for remote opportunities leading towards front end development that allow professional growth<br>
 🌱 I’m currently building a personal project that display all NFTs owned by a user's wallet address<br>
